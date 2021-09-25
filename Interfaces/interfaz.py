@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import * 
 
-
 def printText():
     
     changeText.set(firstInput.get())
